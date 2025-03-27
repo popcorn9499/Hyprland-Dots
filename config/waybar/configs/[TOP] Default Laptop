@@ -48,6 +48,7 @@
 	"tray",
 	"network#speed",
 	"custom/separator#dot-line",
+	"custom/g502_battery",
 	"group/laptop",
 	"custom/separator#dot-line",
 	"group/mobo_drawer",
