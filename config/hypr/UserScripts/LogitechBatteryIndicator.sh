@@ -13,7 +13,7 @@ BATTERY_LEVEL=$(solaar show | awk '
 ' 2>/dev/null)
 
 if [ -z "$BATTERY_LEVEL" ]; then
-    echo '{"text": "G502: ?", "tooltip": "Battery info not found"}'
+    echo '{"text": "🖱: ?", "tooltip": "Battery info not found"}'
     exit 0
 fi
 
