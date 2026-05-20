@@ -131,7 +131,9 @@ tooltip {
 #custom-keyboard,
 #custom-light_dark,
 #custom-lock,
-#custom-hint,
+#custom-hint {
+	color: black
+}
 #custom-hypridle,
 #custom-menu,
 #custom-playerctl,

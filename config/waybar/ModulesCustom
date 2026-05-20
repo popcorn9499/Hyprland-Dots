@@ -265,5 +265,13 @@
 "custom/arrow10": {
 	"format": "",
 	"tooltip": false
+},
+"custom/g502_battery": {
+    "format": "{}",
+    "exec": "~/.config/hypr/UserScripts/LogitechBatteryIndicator.sh",
+    "return-type": "json",
+    "interval": 120
 }
+
 }
+
